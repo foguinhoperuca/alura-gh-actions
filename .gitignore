@@ -19,3 +19,14 @@
 
 # Go workspace file
 go.work
+
+# patch, git and workflow
+*.patch
+
+# Postgres
+
+postgres-data
+
+# Custom
+*~*
+*#*

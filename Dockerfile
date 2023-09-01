@@ -2,9 +2,9 @@ FROM ubuntu:latest
 EXPOSE 8000
 WORKDIR /app
 ENV HOST=localhost
-ENV PORT=5432
+ENV DBPORT=5432
 ENV USER=root
-ENV PASSWORD=A12345678a
+ENV PASSWORD=root
 ENV DBNAME=root
 COPY ./main main
 CMD ["./main"]

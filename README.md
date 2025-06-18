@@ -10,6 +10,7 @@ Finished in 2023-08-31.
 
 - [New Course: https://cursos.alura.com.br/course/integracao-continua-pipelines-testes-automatizados-github-actions](https://cursos.alura.com.br/course/integracao-continua-pipelines-testes-automatizados-github-actions)
 - [Go app reference: https://github.com/alura-cursos/Curso_CI/](https://github.com/alura-cursos/Curso_CI/)
+- [My repository for new version: https://github.com/foguinhoperuca/alura-gh-actions-redo01](https://github.com/foguinhoperuca/alura-gh-actions-redo01)
 
 ### Docker Hub ###
 
